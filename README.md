@@ -65,3 +65,7 @@
 <p align="center">
   <img src="https://github.com/PriyanshuMaurya/PriyanshuMaurya/blob/output/snake.svg" alt="snake animation" />
 </p>
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Priyanshu-M-eng/Priyanshu-M-eng/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Priyanshu-M-eng/Priyanshu-M-eng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
