@@ -62,8 +62,6 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/PriyanshuMaurya/PriyanshuMaurya/blob/output/snake.svg" alt="snake animation" />
-</p>
+
 
 ![Snake animation](https://github.com/Priyanshu-M-eng/Priyanshu-M-eng/blob/output/github-contribution-grid-snake.svg)
